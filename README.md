@@ -22,5 +22,8 @@ ML Neural Nets demo - Vehicle Classification.ipynb for vehicle classification us
 
 ML Neural Nets demo - Identification of vehicles.ipynb for identification of vehicles
 
+the sample video file used for vehicle detection and classification is shared in the below link
+https://drive.google.com/open?id=1Qv5--1y9PWVtfb5DhSRK_CMK9ZXFV3FT
+
  
 
